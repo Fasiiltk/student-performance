@@ -8,7 +8,6 @@ model = pickle.load(open('model.pkl', 'rb'))
 
 
 
-
 # Add custom CSS to change the background color
 st.markdown(
     """
