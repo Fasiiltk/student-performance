@@ -5,7 +5,7 @@ import numpy as np
 
 # Load the model
 model = pickle.load(open('model.pkl', 'rb'))
-
+ 
 
 
 # Add custom CSS to change the background color
